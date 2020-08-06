@@ -1,6 +1,6 @@
 ## Hello, I'm Paulo 
 Web developer based in Orleans, SC. I am passionate about programming and technology. 
-I love traveling, eating sushi, and spend time with the ones that I love.
+I love traveling, sushi, and spend time with the ones that I love.
 
 Let's take a look at my instance for 2020
 
