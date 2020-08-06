@@ -5,7 +5,7 @@ I love traveling, eating sushi, help others, and spend time with the ones that I
 
 Let's take a look at my instance for 2020
 
-<img src="introduction_me.png" alt="introduction" width="1000"> 
+<img src="https://github.com/plooliveira/plooliveira/blob/master/introduction_me.png?raw=true" alt="introduction" width="1000"> 
 
 
  
